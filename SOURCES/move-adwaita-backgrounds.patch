@@ -1,0 +1,16 @@
+--- gnome-backgrounds-3.28.0/backgrounds/gnome-backgrounds.xml.in.in.kala	2018-03-14 01:24:44.000000000 +0100
++++ gnome-backgrounds-3.28.0/backgrounds/gnome-backgrounds.xml.in.in	2018-03-14 08:37:13.308970614 +0100
+@@ -58,13 +58,6 @@
+     <scolor>#000000</scolor>
+ 	</wallpaper>
+ 	<wallpaper deleted="false">
+-		<name>Adwaita</name>
+-		<filename>@BACKGROUNDDIR@/adwaita-timed.xml</filename>
+-		<options>zoom</options>
+-    <pcolor>#ffffff</pcolor>
+-    <scolor>#000000</scolor>
+-	</wallpaper>
+-	<wallpaper deleted="false">
+ 		<name>Sea Sunset</name>
+ 		<filename>@BACKGROUNDDIR@/SeaSunset.jpg</filename>
+ 		<options>zoom</options>
